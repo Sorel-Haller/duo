@@ -8,7 +8,7 @@ const toggleMenu = () => {
 </script>
 
 <template>
-  <header class="w-full flex justify-between items-center p-6 py-4 bg-white">
+  <header class="w-full flex justify-between items-center xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:pl-[32px] pl-[20px] py-4 bg-white">
     <!-- Logo -->
     <div class="text-lg flex items-center gap-6">
         <h2 class="text-[#008576] font-outfit font-normal text-[36px] leading-[47px] tracking-[-0.02em]">Nitro</h2>
