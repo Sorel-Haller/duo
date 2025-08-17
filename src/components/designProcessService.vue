@@ -7,9 +7,9 @@
                     <!-- Main Process -->
                     <div class="flex flex-col gap-[40px]">
                         <!-- UX -->
-                        <div class="flex lg:flex-row flex-col lg:gap-[20px] gap-[40px]">
+                        <div class="flex lg:flex-row flex-col lg:gap-[20px] gap-[40px] lg:items-center items-start">
                             <!-- Heading -->
-                            <div class="flex flex-col gap-[27px]">
+                            <div class="flex flex-col gap-[27px] lg:w-[657px] xl:w-[1109px]">
                                 <h2 class="font-outfit font-semibold text-[#006458] text-[36px] sm:text-[48px] lg:text-[64px]">User Experience</h2>
                                 <div class="flex flex-col gap-[20px]">
                                     <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">UX refers to the value that you offer to your users when they are using your product. It primarily depends on enhancing user satisfaction by improving the accessibility, usability and convenience when a user interacts with your product. </p>                                
@@ -20,7 +20,7 @@
                             </div>
                             <!-- Illustration -->
                             <div>
-
+                                <img src="@/assets/Group.png" alt="Profile" class="xl:w-[447px] lg:w-[378px] w-[240px] h-auto" />
                             </div>
                         </div>
                         <!-- list -->

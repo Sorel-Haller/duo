@@ -17,9 +17,9 @@
                                 <caption class="caption-top flex justify-left font-switzer font-medium text-[14px] text-white">
                                     01
                                 </caption>
-                                <thread>
+                                <div>
                                     <h2 class="lg:w-[188px] font-outfit font-semibold text-white text-[40px]">Discovery</h2>
-                                </thread>
+                                </div>
                             </table>
                             <p class="font-supreme font-regular text-white sm:text-[20px] text-[18px]">It all starts with an idea. We will listen to your idea and set goals and objectives for your business. We will then research the market for competitors, identify how we can make an impact, work with you to refine your ideas and present solutions which will help achieve your goals. Transforms those ideas into scope of work.</p>
                         </div>
@@ -28,9 +28,9 @@
                                 <caption class="caption-top flex justify-left font-switzer font-medium text-[14px] text-white">
                                     02
                                 </caption>
-                                <thread>
+                                <div>
                                     <h2 class="lg:w-[188px] font-outfit font-semibold text-white text-[40px]">Design</h2>
-                                </thread>
+                                </div>
                             </table>
                             <p class="font-supreme font-regular text-white sm:text-[20px] text-[18px]">We collaborate every step of the way so that you become a part of the process. Together with your input, our designers and developers will create a unique product so that your business grow and thrive.</p>
                         </div>
@@ -39,9 +39,9 @@
                                 <caption class="caption-top flex justify-left font-switzer font-medium text-[14px] text-white">
                                     03
                                 </caption>
-                                <thread>
+                                <div>
                                     <h2 class="lg:w-[188px] font-outfit font-semibold text-white text-[40px]">Provide</h2>
-                                </thread>
+                                </div>
                             </table>
                             <p class="font-supreme font-regular text-white sm:text-[20px] text-[18px]">We don’t just offer much good looking designs, we offer what works best for you. Our primary focus is and always will be to help your business grow. We always makes sure to deliver that product that brings revenue to your business.</p>
                         </div>
@@ -50,9 +50,9 @@
                                 <caption class="caption-top flex justify-left font-switzer font-medium text-[14px] text-white">
                                     04
                                 </caption>
-                                <thread>
+                                <div>
                                     <h2 class="lg:w-[188px] font-outfit font-semibold text-white text-[40px]">Expand</h2>
-                                </thread>
+                                </div>
                             </table>
                             <p class="font-supreme font-regular text-white sm:text-[20px] text-[18px]">We just launched your site. Things don’t end here. Our clients rely on us to make maintaince, make those few adjustments and make any updates when necessary. We always focus whats best for your business so that it grow.</p>
                         </div>
