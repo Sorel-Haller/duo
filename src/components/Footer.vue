@@ -39,13 +39,13 @@
             <div class="w-[140px] flex flex-col gap-[17px]">
                 <h5 class="font-[Outfit] font-medium text-[20px] leading-[26px] tracking-[-0.02em]">Admin</h5>
                 <ul class="flex flex-col w-full gap-[12px] text-nowrap">
-                <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">404</a></li>
-                <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Login</a></li>
-                <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Licenses</a></li>
-                <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Instructions</a></li>
-                <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Styleguide</a></li>
-                <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Changelog</a></li>
-                <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">More Templates</a></li>
+                    <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">404</a></li>
+                    <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Login</a></li>
+                    <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Licenses</a></li>
+                    <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Instructions</a></li>
+                    <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Styleguide</a></li>
+                    <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Changelog</a></li>
+                    <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">More Templates</a></li>
                 </ul>
             </div>            
             <!-- Reach Out -->
