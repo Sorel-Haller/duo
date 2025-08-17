@@ -8,7 +8,7 @@ const toggleMenu = () => {
 </script>
 
 <template>
-  <header class="w-full flex justify-between items-center px-6 py-4 bg-white shadow-md">
+  <header class="w-full flex justify-between items-center p-6 py-4 bg-white">
     <!-- Logo -->
     <div class="text-lg flex items-center gap-6">
         <h2 class="text-[#008576] font-outfit font-normal text-[36px] leading-[47px] tracking-[-0.02em]">Nitro</h2>
@@ -27,9 +27,28 @@ const toggleMenu = () => {
       <!-- Dropdown -->
       <div
         v-if="isOpen"
-        class="absolute right-0 mt-2 w-40 bg-white shadow-lg rounded-lg p-2"
-      >
-        <a href="#" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">Home</a>
+        class="absolute right-0 mt-6 w-44 bg-white shadow-lg ">
+        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            Home                        
+        </router-link>
+        <router-link to="service" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            Service                        
+        </router-link>
+        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            Work Page                        
+        </router-link>
+        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            About us                        
+        </router-link>
+        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            Blog                        
+        </router-link>
+        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            Privacy Policy                        
+        </router-link>
+        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            Contact Us                        
+        </router-link>
       </div>
     </div>
   </header>
