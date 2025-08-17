@@ -52,7 +52,7 @@
 
       <!-- Reach Out -->
       <div class="w-[280px] flex flex-col gap-[24px]">
-        <div class="flex flex-col gap-[32px]">
+        <div class="flex flex-col w-[208px] gap-[32px]">
             <h5 class="font-[Outfit] font-medium text-[20px] leading-[26px] tracking-[-0.02em]">Reach Out to Us</h5>
             <div class="flex flex-col gap-[24px]">
                 <div class="flex flex-row gap-[32px]">
@@ -79,8 +79,22 @@
                 </div>
             </div>
         </div>
-      </div>
-      
+        <div class="flex flex-col w-[280px] gap-[32px]">
+            <p class="font-[Supreme] font-normal w-full text-[20px] leading-[26px] tracking-[-0.02em]">
+                Join our mailing list and get to <br> know exciting stuff at first hand
+            </p>            
+            <div class="flex flex-row h-[64px]">
+                <input
+                    type="email"
+                    placeholder="johnchoe@gmail.com"
+                    class="text-[#9CA6C1] w-[218px] pl-[20px] bg-white"
+                />
+                <button class="bg-[#008576] w-[64px]">
+                    <i class="fas fa-paper-plane text-white"></i>
+                </button>
+            </div>        
+        </div>
+      </div>      
     </div>
 
   </footer>
