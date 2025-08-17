@@ -6,7 +6,7 @@
             Have an idea? <span class="font-normal underline underline-offset-10 decoration-[2px]">Let’s Talk</span>
         </h1>        
     </section>
-    <div class="flex flex-col md:flex-row justify-between gap-30 pt-12 pb-8">
+    <div class="flex flex-col md:flex-row justify-between gap-[40px] md:gap-[120px] pt-12 pb-8">
       <!-- Contact Info -->
       <div class="flex flex-col w-[273px] h-[284px] gap-5">
         <div class="flex flex-col gap-2">
@@ -48,6 +48,37 @@
           <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">Changelog</a></li>
           <li><a href="#" class="hover:text-[#008576] font-[Supreme] font-normal text-[16px] md:text-[18px] leading-[23px] tracking-[-0.02em]">More Templates</a></li>
         </ul>
+      </div>
+
+      <!-- Reach Out -->
+      <div class="w-[280px] flex flex-col gap-[24px]">
+        <div class="flex flex-col gap-[32px]">
+            <h5 class="font-[Outfit] font-medium text-[20px] leading-[26px] tracking-[-0.02em]">Reach Out to Us</h5>
+            <div class="flex flex-col gap-[24px]">
+                <div class="flex flex-row gap-[32px]">
+                    <div class="w-10 h-10 bg-[#E5F6F4] rounded-full flex justify-center items-center">
+                        <a href="#"><i class="fab fa-facebook-f text-[#001412] text-xl"></i></a>
+                    </div>
+                    <div class="w-10 h-10 bg-[#E5F6F4] rounded-full flex justify-center items-center">
+                        <a href="#"><i class="fab fa-twitter text-[#001412] text-xl"></i></a>
+                    </div>
+                    <div class="w-10 h-10 bg-[#E5F6F4] rounded-full flex justify-center items-center">
+                        <a href="#"><i class="fab fa-instagram text-[#001412] text-2xl"></i></a>
+                    </div>
+                </div>
+                <div class="flex flex-row gap-[32px]">
+                    <div class="w-10 h-10 bg-[#E5F6F4] rounded-full flex justify-center items-center">
+                        <a href="#"><i class="fab fa-skype text-[#001412] text-xl"></i></a>
+                    </div>
+                    <div class="w-10 h-10 bg-[#E5F6F4] rounded-full flex justify-center items-center">
+                        <a href="#"><i class="fab fa-whatsapp text-[#001412] text-xl"></i></a>
+                    </div>
+                    <div class="w-10 h-10 bg-[#E5F6F4] rounded-full flex justify-center items-center">
+                        <a href="#"><i class="fab fa-linkedin-in text-[#001412] text-xl"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
       </div>
       
     </div>
