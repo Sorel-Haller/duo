@@ -1,9 +1,12 @@
 <template>
     <OurService />
-    <ProcessService />
+    <WorkProcessService />
+    <DesignProcessService />
 </template>
 
 <script setup>
     import OurService from '../components/ourService.vue';
-    import ProcessService from '../components/processService.vue';
+    import WorkProcessService from '../components/workProcessService.vue';
+    import DesignProcessService from '../components/designProcessService.vue';
+
 </script>
