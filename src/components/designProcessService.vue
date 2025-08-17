@@ -7,7 +7,7 @@
                     <!-- Main Process -->
                     <div class="flex flex-col gap-[40px]">
                         <!-- UX -->
-                        <div class="flex lg:flex-row flex-col lg:gap-[20px] gap-[40px] lg:items-center items-start">
+                        <div class="flex xl:flex-row flex-col lg:gap-[20px] gap-[40px] lg:items-center items-start">
                             <!-- Heading -->
                             <div class="flex flex-col gap-[27px] lg:w-[657px] xl:w-[1109px]">
                                 <h2 class="font-outfit font-semibold text-[#006458] text-[36px] sm:text-[48px] lg:text-[64px]">User Experience</h2>
