@@ -1,17 +1,17 @@
 <template>
-  <footer class="bg-[#001412] text-white px-8 md:px-32 py-16 flex flex-col">
+  <footer class="bg-[#001412] text-white xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:l-[32px] pl-[20px] py-16 flex flex-col">
     <!-- Top Section -->
     <section class="h-[206px]">
         <h1 class="font-[Outfit] font-semibold text-[64px] md:text-[72px] lg:text-[100px] leading-[100%] tracking-[-0.02em]">
             Have an idea? <span class="font-normal underline underline-offset-10 decoration-[2px]">Let’s Talk</span>
         </h1>        
     </section>
-    <div class="flex flex-col md:flex-row justify-between gap-[40px] md:gap-[120px] pt-12 pb-8">
+    <div class="flex flex-col md:flex-row justify-between gap-[40px] flex-wrap pt-12 pb-8">
       <!-- Contact Info -->
       <div class="flex flex-col w-[273px] h-[284px] gap-5">
         <div class="flex flex-col gap-2">
             <h5 class="font-[Outfit] font-medium text-[20px] leading-[26px] tracking-[-0.02em]">Get in touch</h5>
-            <h3 class="font-[Outfit] font-semibold text-[32px] leading-[42px] tracking-[-0.02em]">info@template.com</h3>            
+            <h3 class="font-[Outfit] font-semibold md:text-[32px] text-[20px] leading-[42px] tracking-[-0.02em]">info@template.com</h3>            
         </div>
         <div class="flex flex-col gap-3">
           <p class="font-[Supreme] font-medium text-[20px] leading-[26px] tracking-[-0.02em]">Phone</p>
@@ -52,7 +52,7 @@
 
       <!-- Reach Out -->
       <div class="w-[280px] flex flex-col gap-[24px]">
-        <div class="flex flex-col w-[208px] gap-[32px]">
+        <div class="flex flex-col sm:w-[380px] md:w-[280px] w-[208px] gap-[32px]">
             <h5 class="font-[Outfit] font-medium text-[20px] leading-[26px] tracking-[-0.02em]">Reach Out to Us</h5>
             <div class="flex flex-col gap-[24px]">
                 <div class="flex flex-row gap-[32px]">
@@ -79,7 +79,7 @@
                 </div>
             </div>
         </div>
-        <div class="flex flex-col w-[280px] gap-[32px]">
+        <div class="flex flex-col sm:w-[380px] md:w-[280px] w-[280px] gap-[32px]">
             <p class="font-[Supreme] font-normal w-full text-[20px] leading-[26px] tracking-[-0.02em]">
                 Join our mailing list and get to <br> know exciting stuff at first hand
             </p>            
@@ -87,7 +87,7 @@
                 <input
                     type="email"
                     placeholder="johnchoe@gmail.com"
-                    class="text-[#9CA6C1] w-[218px] pl-[20px] bg-white"
+                    class="text-[#9CA6C1] sm:w-[316px] md:w-[218px] w-[218px] pl-[20px] bg-white"
                 />
                 <button class="bg-[#008576] w-[64px]">
                     <i class="fas fa-paper-plane text-white"></i>
@@ -96,7 +96,6 @@
         </div>
       </div>      
     </div>
-
   </footer>
 </template>
 
