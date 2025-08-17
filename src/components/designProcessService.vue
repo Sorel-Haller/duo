@@ -34,7 +34,29 @@
                     </div>
                     <!-- UX design Process List -->
                     <div class="flex flex-col gap-[60px]">
-
+                        <div class="flex flex-col gap-[20px]">
+                            <h2 class="font-outfit font-semibold text-[#006458] sm:text-[48px] text-[36px]">1. Strategy</h2>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">Before starting anything, we work with the client to find out the brand’s mission and goals. It involves performing a detailed review of competitors’ websites, along with conducting user testing to better understand the larger competitive landscape of the business.</p>
+                        </div>
+                        <div class="flex flex-col gap-[20px]">
+                            <h2 class="font-outfit font-semibold text-[#006458] sm:text-[48px] text-[36px]">2. Research</h2>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">Conducting thorough research is the second most integral aspect of the UX design process. Research is primarily done to understand more about the users, their goals, behaviors, motivations, and needs. Good research informs design decisions that will lays the foundation of the entire project and can save a lot of time and money down the road.</p>
+                        </div>
+                        <div class="flex flex-col gap-[20px]">
+                            <h2 class="font-outfit font-semibold text-[#006458] sm:text-[48px] text-[36px]">3. Analyze</h2>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">Now its time to analyze the users who are going to use this product. Before starting main design process its important creating user personas, user stories and user journey map to create a strong foundation to design better.</p>
+                        </div>
+                        <div class="flex flex-col gap-[20px]">
+                            <h2 class="font-outfit font-semibold text-[#006458] sm:text-[48px] text-[36px]">4. Design</h2>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">The design process is collaborative – that involves input and ideas from various stakeholders and iterative, and validates ideas and assumptions. </p>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">We start with sketching -  the easiest and fastest way to visualize our ideas. Then we create wireframes, sitemap, userflow, mockups (low & low) fidelity , images, icons and colors and a whole design system so the product stays consistent throught the process. </p>
+                        </div>
+                        <div class="flex flex-col gap-[20px]">
+                            <h2 class="font-outfit font-semibold text-[#006458] sm:text-[48px] text-[36px]">5. Prototype</h2>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">It’s time implement those High fidelity mockups into actions, this is where prototyping comes in. Prototypes concentrate on the feel of the UI/UX product that one is designing. It’s more about the interaction experience. Prototypes give you the effect of a simulator. </p>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">Once its approved and we pass everything to the development team who will create a high fidelity version of the user interface into coded prototypes. </p>
+                            <p class="font-supreme font-regular text-[#006458] sm:text-[20px] text-[18px]">During the development, we use user testing (targeted users), beta launch( limited release of the product) and internal testing so that users can test out the product and give & recieve feedback so the the development team updates the products accordingly before it launches.</p>
+                        </div>
                     </div>
                 </div>
             </div>
