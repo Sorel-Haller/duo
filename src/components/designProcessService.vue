@@ -24,7 +24,13 @@
                             </div>
                         </div>
                         <!-- list -->
-                        <div></div>
+                        <ol class="list-decimal text-[#006458] sm:text-[36px] text-[28px] font-outfit font-medium pl-[40px]">
+                            <li>Strategy</li>
+                            <li>Research</li>
+                            <li>Analyze</li>
+                            <li>Design</li>
+                            <li>Prototype</li>
+                        </ol>
                     </div>
                     <!-- UX design Process List -->
                     <div class="flex flex-col gap-[60px]">
