@@ -34,8 +34,8 @@ const toggleMenu = () => {
         <router-link to="service" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Service                        
         </router-link>
-        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
-            Work Page                        
+        <router-link to="/works" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+            Selected Works                        
         </router-link>
         <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             About us                        

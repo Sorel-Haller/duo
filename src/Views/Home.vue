@@ -1,5 +1,5 @@
 <template>
-  <!-- HERO (suur taust + kerge tumendus) -->
+  <!-- HERO -->
   <section class="relative text-center">
     <div class="absolute inset-0 -z-10">
       <img src="/pictures/homepage.jpg" alt="" class="h-full w-full object-cover" />
@@ -26,7 +26,7 @@
       </h2>
 
       <div class="mt-8 grid gap-5 md:grid-cols-3">
-        <!-- rida 1 -->
+        <!-- row 1 -->
         <div class="rounded-md bg-card p-6 ring-1 ring-white/10">
           <div class="mb-3 text-2xl">🔘</div>
           <h3 class="font-semibold">UI/UX</h3>
@@ -42,7 +42,7 @@
           <h3 class="font-semibold">SEO</h3>
           <p class="mt-1 text-sm text-white/70">Technical SEO to capture more traffic and revenue.</p>
         </div>
-        <!-- rida 2 -->
+        <!-- row 2 -->
         <div class="rounded-md bg-card p-6 ring-1 ring-white/10">
           <div class="mb-3 text-2xl">💻</div>
           <h3 class="font-semibold">Web Design</h3>
@@ -70,7 +70,7 @@
           <h2 class="text-2xl md:text-3xl font-semibold">Selected works</h2>
           <p class="mt-1 text-sm text-white/70">See our featured works here.</p>
         </div>
-        <a href="#" class="hidden sm:inline-flex rounded-md border border-white/30 px-4 py-2 text-sm hover:bg-white/10">View All</a>
+        <RouterLink to="/works" class="hidden sm:inline-flex rounded-md border border-white/30 px-4 py-2 text-sm hover:bg-white/10">View All</RouterLink>
       </div>
 
       <div class="grid gap-6 md:grid-cols-2">
