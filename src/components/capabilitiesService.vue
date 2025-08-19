@@ -1,15 +1,15 @@
 <template>
     <div class="bg-white pt-[40px] pb-[40px] xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:pl-[32px] pl-[20px]">
         <div>
-            <div class="flex flex-col gap-[80px] xl:items-center">
+            <div class="flex flex-col gap-[80px] xl:items-center w-full">
                 <!-- Heading -->
                 <div class="flex flex-col gap-[20px]">
                     <h5 class="font-outfit font-bold text-[#33B8A9] text-[20px] text-center">Our Core Capabilities</h5>
                     <h2 class="font-outfit font-medium text-[#004B49] lg:text-[64px] md:text-[54px] sm:text-[48px] text-[32px] text-center">Our capabilities and expertise makes us stand out from the noise</h2>
                 </div>
                 <!-- Service List -->
-                <div class="flex flex-col gap-[32px]">
-                    <div class="flex flex-col lg:flex-row gap-[32px]">
+                <div class="flex flex-col gap-[32px] w-full">
+                    <div class="flex flex-col lg:flex-row w-full gap-[32px]">
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
                                 <img src="@/assets/Icon-Experience.png" alt="Profile" class="w-[80px] h-auto" />
