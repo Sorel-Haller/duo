@@ -46,7 +46,7 @@ const toggleMenu = () => {
         <router-link to="privacyPolicy" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Privacy Policy                        
         </router-link>
-        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+        <router-link to="contactUs" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Contact Us                        
         </router-link>
       </div>
