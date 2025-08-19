@@ -14,6 +14,10 @@
                         <label class="block text-4 font-[Supreme] font-normal text-[#818EB0]">Email Address</label>
                         <input type="text" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-2 focus:ring-[#1a7369]" />
                     </div>
+                    <div class="flex flex-col gap-3">
+                        <label class="block text-4 font-[Supreme] font-normal text-[#818EB0]">Company Name</label>
+                        <input type="text" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-2 focus:ring-[#1a7369]" />
+                    </div>
 
                     <div class=" border-b-[0.5px] pt-4 pb-4 bg-[#00A693] hover:bg-[#1a7369] w-full text-center ">
                         <button class="font-[Neue Haas Grotesk Display Pro] font-medium text-6 ">Submit</button>
