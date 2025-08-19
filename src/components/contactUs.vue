@@ -28,14 +28,19 @@
                             class="w-full h-50 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] resize-none focus:bg-white"
                         ></textarea>
                     </div>
-
                     <div class=" border-b-[0.5px] pt-4 pb-4 bg-[#00A693] hover:bg-[#1a7369] w-full text-center ">
                         <button class="font-[Neue Haas Grotesk Display Pro] font-medium text-6 ">Submit</button>
                     </div>
                  </div>
                 <!-- Contact info -->
                  <div class="flex flex-col gap-[40px] w-full">
-                    
+                    <div class="flex flex-col gap-3 text-right">
+                        <p class="font-[supreme] font-normal text-[#008576] text-[20px]">Or write us an email directly</p>
+                        <h2 class="font-[outfit] font-semibold text-[#008576] text-[36px]">info@underrrated.com</h2>
+                    </div>
+                    <div class="flex flex-col gap-10">
+
+                    </div>
                  </div>
             </div>
         </div>
