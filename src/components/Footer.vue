@@ -83,7 +83,8 @@
                     </p>            
                     <div class="flex flex-row h-[64px]">
                         <input
-                            type="email"
+                            id="Email"
+                            autocomplete="off"
                             placeholder="johnchoe@gmail.com"
                             class="text-[#9CA6C1] sm:w-[316px] md:w-[218px] w-[218px] pl-[20px] bg-white"
                         />

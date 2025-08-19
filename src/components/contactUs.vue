@@ -7,24 +7,24 @@
                  <div class="flex flex-col sm:gap-15 gap-[40px] w-full">
                     <div class="flex flex-col gap-3">
                         <p class="block text-4 font-[Supreme] font-normal text-[#818EB0]">Full Name</p>
-                        <input type="text"
+                        <input id="fullName" autocomplete="first-name"
                             class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] focus:bg-white" />
                     </div>
                     <div class="flex flex-col gap-3">
                         <p class="block text-4 font-[Supreme] font-normal text-[#818EB0]">Email Address</p>
-                        <input type="text" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] focus:bg-white" />
+                        <input id="email" autocomplete="email" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] focus:bg-white" />
                     </div>
                     <div class="flex flex-col gap-3">
                         <p class="block text-4 font-[Supreme] font-normal text-[#818EB0]">Company Name</p>
-                        <input type="text" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] focus:bg-white" />
+                        <input id="companyName" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] focus:bg-white" />
                     </div>
                     <div class="flex flex-col gap-3">
                         <p class="block text-4 font-[Supreme] font-normal text-[#818EB0]">Project Budget (USD)</p>
-                        <input type="text" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] focus:bg-white" />
+                        <input id="budget" class="w-full h-16 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] focus:bg-white" />
                     </div>
                     <div class="flex flex-col gap-3">
                         <p class="block text-4 font-[Supreme] font-normal text-[#818EB0]">Please tell us a bit about your project</p>
-                        <textarea 
+                        <textarea id="text"
                             class="w-full h-50 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] resize-none focus:bg-white"
                         ></textarea>
                     </div>
