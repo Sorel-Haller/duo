@@ -1,5 +1,4 @@
 <template>
-    <PrivacyPolicy />
     <ContactUs />
 </template>
 
