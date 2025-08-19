@@ -10,7 +10,7 @@
                 <!-- Service List -->
                 <div class="flex flex-col gap-[32px]">
                     <div class="flex flex-col md:flex-row gap-[32px]">
-                        <div class="bg-[#E5F6F4] flex flex-col gap-[32px] px-[24px] py-[40px]">
+                        <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
                                 <img src="@/assets/Icon-Experience.png" alt="Profile" class="w-[80px] h-auto" />
                             </div>
@@ -29,8 +29,24 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="bg-[#E5F6F4] flex flex-col gap-[32px] px-[24px] py-[40px]">
-
+                        <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
+                            <div>
+                                <img src="@/assets/Icon-Development.png" alt="Profile" class="w-[80px] h-auto" />
+                            </div>
+                            <div class="flex flex-col gap-[16px]">
+                                <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
+                                    Development
+                                </h3>
+                                <ul class="flex flex-col gap-[12px]">
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Front-end Development</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Back-end Development</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Mobile App Development</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">CMS & CRM</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Cyber Security</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Support, QA & Maintenance</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Search Engine Optimization (SEO)</li>
+                                </ul>
+                            </div>
                         </div>
                         <div class="bg-[#E5F6F4] flex flex-col gap-[32px] px-[24px] py-[40px]">
                             
