@@ -33,13 +33,18 @@
                     </div>
                  </div>
                 <!-- Contact info -->
-                 <div class="flex flex-col gap-[40px] w-full">
-                    <div class="flex flex-col gap-3 text-right">
+                 <div class="flex flex-col gap-[40px] w-full text-right">
+                    <div class="flex flex-col gap-3">
                         <p class="font-[supreme] font-normal text-[#008576] text-[20px]">Or write us an email directly</p>
                         <h2 class="font-[outfit] font-semibold text-[#008576] text-[36px]">info@underrrated.com</h2>
                     </div>
                     <div class="flex flex-col gap-10">
-
+                        <div class="flex flex-col gap-3">
+                            <h3 class="font-[outfit] font-semibold text-[#008576] text-[28px]">Phone</h3>
+                            <p class="font-[supreme] font-normal text-[#008576] text-[20px]">+880 130 3478 950 <br>+880 177 5963 777</p>
+                        </div>
+                        <div class="flex flex-col gap-3"></div>
+                        <div class="flex flex-col gap-6"></div>
                     </div>
                  </div>
             </div>
