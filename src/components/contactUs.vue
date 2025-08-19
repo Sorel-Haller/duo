@@ -35,19 +35,38 @@
                 <!-- Contact info -->
                  <div class="flex flex-col gap-[40px] w-full text-right">
                     <div class="flex flex-col gap-3">
-                        <p class="font-[supreme] font-normal text-[#008576] text-[20px]">Or write us an email directly</p>
-                        <h2 class="font-[outfit] font-semibold text-[#008576] text-[36px]">info@underrrated.com</h2>
+                        <p class="font-[supreme] font-normal text-[#008576] sm:text-[20px] text-[18px]">Or write us an email directly</p>
+                        <h2 class="font-[outfit] font-semibold text-[#008576] sm:text-[36px] text-[24px]">info@underrrated.com</h2>
                     </div>
                     <div class="flex flex-col gap-10">
                         <div class="flex flex-col gap-3">
-                            <h3 class="font-[outfit] font-semibold text-[#008576] text-[28px]">Phone</h3>
-                            <p class="font-[supreme] font-normal text-[#008576] text-[20px]">+880 130 3478 950 <br>+880 177 5963 777</p>
+                            <h3 class="font-[outfit] font-semibold text-[#008576] sm:text-[28px] text-[24px]">Phone</h3>
+                            <p class="font-[supreme] font-normal text-[#008576] sm:text-[20px] text-[18px]">+880 130 3478 950 <br>+880 177 5963 777</p>
                         </div>
                         <div class="flex flex-col gap-3">
-                            <h3 class="font-[outfit] font-semibold text-[#008576] text-[28px]">Address</h3>
-                            <p class="font-[supreme] font-normal text-[#008576] text-[20px]">2352 Middlefield Rd, Markham <br>Ontario, Canada</p>
+                            <h3 class="font-[outfit] font-semibold text-[#008576] sm:text-[28px] text-[24px]">Address</h3>
+                            <p class="font-[supreme] font-normal text-[#008576] sm:text-[20px] text-[18px]">2352 Middlefield Rd, Markham <br>Ontario, Canada</p>
                         </div>
-                        <div class="flex flex-col gap-6"></div>
+                        <div class="flex flex-row flex-wrap w-full justify-end gap-6 text-[#008576]">
+                            <div class="w-10 h-10 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-facebook-f text-white text-xl"></i></a>
+                            </div>
+                            <div class="w-10 h-10 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-twitter text-white text-xl"></i></a>
+                            </div>
+                            <div class="w-10 h-10 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-instagram text-white text-xl"></i></a>
+                            </div>
+                            <div class="w-10 h-10 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-skype text-white text-xl"></i></a>
+                            </div>
+                            <div class="w-10 h-10 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-linkedin-in text-white text-xl"></i></a>
+                            </div>
+                            <div class="w-10 h-10 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-whatsapp text-white text-xl"></i></a>
+                            </div>
+                        </div>
                     </div>
                  </div>
             </div>
