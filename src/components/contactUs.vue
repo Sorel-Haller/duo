@@ -43,7 +43,10 @@
                             <h3 class="font-[outfit] font-semibold text-[#008576] text-[28px]">Phone</h3>
                             <p class="font-[supreme] font-normal text-[#008576] text-[20px]">+880 130 3478 950 <br>+880 177 5963 777</p>
                         </div>
-                        <div class="flex flex-col gap-3"></div>
+                        <div class="flex flex-col gap-3">
+                            <h3 class="font-[outfit] font-semibold text-[#008576] text-[28px]">Address</h3>
+                            <p class="font-[supreme] font-normal text-[#008576] text-[20px]">2352 Middlefield Rd, Markham <br>Ontario, Canada</p>
+                        </div>
                         <div class="flex flex-col gap-6"></div>
                     </div>
                  </div>
