@@ -9,7 +9,7 @@
                 </div>
                 <!-- Service List -->
                 <div class="flex flex-col gap-[32px]">
-                    <div class="flex flex-col md:flex-row gap-[32px]">
+                    <div class="flex flex-col lg:flex-row gap-[32px]">
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
                                 <img src="@/assets/Icon-Experience.png" alt="Profile" class="w-[80px] h-auto" />
@@ -48,8 +48,24 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="bg-[#E5F6F4] flex flex-col gap-[32px] px-[24px] py-[40px]">
-                            
+                        <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
+                            <div>
+                                <img src="@/assets/Icon-Technology.png" alt="Profile" class="w-[80px] h-auto" />
+                            </div>
+                            <div class="flex flex-col gap-[16px]">
+                                <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
+                                    Technology
+                                </h3>
+                                <ul class="flex flex-col gap-[12px]">
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Vue.js</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Django</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Python</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">ReactJS</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">Bootstrap</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">JavaScript</li>
+                                    <li class="font-supreme font-regular text-[#006458] text-[18px]">HTML, CSS</li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <div class="flex flex-col md:flex-row gap-[32px]">
