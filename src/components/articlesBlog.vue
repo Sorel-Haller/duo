@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white pt-[100px] pb-[100px] sm:pr-8 pr-5 sm:pl-8 pl-5 flex justify-center items-center">
+    <div class="bg-white pt-[100px] pb-[100px] md:pr-20 sm:pr-8 pr-5 md:pl-20 sm:pl-8 pl-5 flex justify-center items-center">
         <div class="flex md:flex-row flex-col gap-8 w-full">
             <!-- Category -->
             <div class="flex flex-col gap-5 md:w-72 w-full">
@@ -28,6 +28,14 @@
             <!-- Article -->
             <div class="flex flex-col gap-4">
                 <h2 class="font-[outfit] font-semibold text-[#323B50] text-[28px] sm:text-[36px]">Why are there so many Web3 startups?</h2>
+                <!-- Author -->
+                 <div class="flex flex-row gap-4">
+                    <div class="w-12 h-12">
+                        <img src="https://picsum.photos/600/600" alt="Random image" class="rounded-3xl" />
+                    </div>
+                 </div>
+                <!-- Main article -->
+                <!-- Main article -->
             </div>
         </div>
     </div>
