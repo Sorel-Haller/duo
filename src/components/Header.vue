@@ -31,7 +31,7 @@ const toggleMenu = () => {
         <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Home                        
         </router-link>
-        <router-link to="service" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+        <router-link to="Service" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Service                        
         </router-link>
         <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
@@ -40,13 +40,13 @@ const toggleMenu = () => {
         <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             About us                        
         </router-link>
-        <router-link to="/" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+        <router-link to="Blog" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Blog                        
         </router-link>
-        <router-link to="privacyPolicy" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+        <router-link to="PrivacyPolicy" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Privacy Policy                        
         </router-link>
-        <router-link to="contactUs" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
+        <router-link to="ContactUs" class="block px-4 py-2 text-gray-700 hover:bg-gray-100">
             Contact Us                        
         </router-link>
       </div>

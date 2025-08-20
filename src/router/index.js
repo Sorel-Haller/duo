@@ -3,12 +3,14 @@ import Home from '../Views/Home.vue';
 import Service from '../Views/Service.vue';
 import privacyPolicy from '../Views/privacyPolicy.vue';
 import contactUs from '../Views/contactUs.vue';
+import Blog from '../Views/Blog.vue';
 
 const routes = [
   { path: '/', component: Home },
-  { path: '/service', component: Service },
-  { path: '/privacyPolicy', component: privacyPolicy },
-  { path: '/contactUs', component: contactUs },
+  { path: '/Service', component: Service },
+  { path: '/PrivacyPolicy', component: privacyPolicy },
+  { path: '/ContactUs', component: contactUs },
+  { path: '/blog', component: Blog },
 
 ]
 const router = createRouter({
