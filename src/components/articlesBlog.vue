@@ -43,7 +43,7 @@
                     </div>
                  </div>
                 <!-- Main article -->
-                <div class="flex flex-col gap-4 pb-5 md:w-[800px] w-full">
+                <div class="flex flex-col gap-8 pb-5 md:w-[800px] w-full">
                     <figure>
                         <img src="https://picsum.photos/800/400" alt="Blog">
                         <figcaption class="text-right text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
@@ -54,7 +54,7 @@
                     </div>
                 </div>
                 <!-- Main article -->
-                <div class="flex flex-col gap-4 pb-5 md:w-[800px] w-full">
+                <div class="flex flex-col gap-8 pb-5 md:w-[800px] w-full">
                     <figure>
                         <img src="https://picsum.photos/800/400" alt="Blog">
                         <figcaption class="text-right text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
@@ -63,8 +63,22 @@
                         <p>How users engage with the content on your website is crucial to your business. User experience is important because it tries to fulfill the user’s needs. It aims to provide positive experiences that keep a user loyal to your product. Additionally, a meaningful user experience allows you to define customer journeys on your product that are most conducive to business success.</p>
                         <p>How users engage with the content on your website is crucial to your business. User experience is important because it tries to fulfill the user’s needs. It aims to provide positive experiences that keep a user loyal to your product. Additionally, a meaningful user experience allows you to define customer journeys on your product that are most conducive to business success.</p>
                     </div>
-                    <div class="flex flex-row p-1 gap-2">
-
+                    <div class="flex flex-row p-1 gap-2 items-center justify-end">
+                        <p class="font-[supreme] font-medium text-[#312E47] text-[16px]">Share with : </p>
+                        <div class="flex flex-row gap-5">
+                            <div class="w-8 h-8 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-facebook-f text-white text-l"></i></a>
+                            </div>
+                            <div class="w-8 h-8 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-instagram text-white text-xl"></i></a>
+                            </div>
+                            <div class="w-8 h-8 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-linkedin-in text-white text-l"></i></a>
+                            </div>
+                            <div class="w-8 h-8 bg-[#008576] rounded-full flex justify-center items-center">
+                                <a href="#"><i class="fab fa-twitter text-white text-l"></i></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </article>
