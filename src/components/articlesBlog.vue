@@ -85,7 +85,7 @@
             </article>
         </section>
         <!-- Other Articles -->
-        <section class="pt-25 pb-25 w-full">
+        <section class="pt-25 w-full">
             <div class="flex flex-col gap-20">
                 <h2 class="font-[outfit] font-semibold text-[#00211D] text-[28px] sm:text-[36px] md:text-[48px] lg:text-[54px]">Other articles you might be interested</h2>
                 <!-- Other blogs -->
@@ -138,6 +138,23 @@
                             </div>
                                 <h4 class="font-[outfit] font-bold text-[#323B50] text-[24px]">The benefits of using a web framework</h4>
                                 <p class="font-[supreme] font-normal text-[#546286] text-[18px]">This post could discuss the benefits of using a web framework, such as speeding up the development process or providing a consistent...</p>
+                                <a href="" class="text-[#323B50] font-[supreme] font-bold text-[16px] pt-3 pb-3">Read More &rarr;</a>
+                        </div>
+                    </div>
+                    <!-- Blog 4 -->
+                    <div class="flex md:flex-row flex-col gap-6">
+                        <img src="https://picsum.photos/280/210" alt="" class="h-[210px] w-[280px]">
+                        <div class="flex flex-col gap-2 w-full">
+                            <div class="flex flex-row flex-wrap gap-3 justify-between">
+                                <div class="flex flex-row gap-3">
+                                    <p class="text-sm text-[#818EB0]">07, June, 2022</p>
+                                    <p class="text-sm text-[#818EB0]">&#x2022;</p>
+                                    <p class="text-sm text-[#818EB0]">by Al Razi Siam</p>
+                                </div>
+                                <p class="text-sm text-[#818EB0]">5 Min Read</p>
+                            </div>
+                                <h4 class="font-[outfit] font-bold text-[#323B50] text-[24px]">The role of design in business</h4>
+                                <p class="font-[supreme] font-normal text-[#546286] text-[18px]">The importance of using storytelling in design and how it can help create a more engaging and memorable user experience.</p>
                                 <a href="" class="text-[#323B50] font-[supreme] font-bold text-[16px] pt-3 pb-3">Read More &rarr;</a>
                         </div>
                     </div>
