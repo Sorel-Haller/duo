@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-white pt-[100px] pb-[100px] md:pr-20 sm:pr-8 pr-5 md:pl-20 sm:pl-8 pl-5 flex justify-center items-center">
-        <div class="flex md:flex-row flex-col gap-8 w-full">
+    <div class="bg-white pt-[100px] pb-[100px] lg:pr-20 sm:pr-8 pr-5 lg:pl-20 sm:pl-8 pl-5 flex justify-center items-center">
+        <div class="flex lg:flex-row flex-col gap-8 w-full">
             <!-- Category -->
             <div class="flex flex-col gap-5 md:w-72 w-full">
                 <!-- Search -->
@@ -43,10 +43,10 @@
                     </div>
                  </div>
                 <!-- Main article -->
-                <div class="flex flex-col gap-8 pb-5 md:w-[800px] w-full">
-                    <figure>
+                <div class="flex flex-col gap-8 pb-5 w-full">
+                    <figure class="w-fit">
                         <img src="https://picsum.photos/800/400" alt="Blog">
-                        <figcaption class="text-right text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
+                        <figcaption class="text-right w-full text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
                     </figure>
                     <div class="font-[supreme] font-normal text-[#323B50] text-[18px] w-full space-y-4">
                         <p>How users engage with the content on your website is crucial to your business. User experience is important because it tries to fulfill the user’s needs. It aims to provide positive experiences that keep a user loyal to your product. Additionally, a meaningful user experience allows you to define customer journeys on your product that are most conducive to business success.</p>
@@ -54,8 +54,8 @@
                     </div>
                 </div>
                 <!-- Main article -->
-                <div class="flex flex-col gap-8 pb-5 md:w-[800px] w-full">
-                    <figure>
+                <div class="flex flex-col gap-8 pb-5 w-full">
+                    <figure class="w-fit">
                         <img src="https://picsum.photos/800/400" alt="Blog">
                         <figcaption class="text-right text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
                     </figure>
