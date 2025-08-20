@@ -1,8 +1,8 @@
 <template>
     <div class="bg-white pt-[100px] pb-[100px] sm:pr-8 pr-5 sm:pl-8 pl-5 flex justify-center items-center">
-        <div class="flex fex-col md:flex-row gap-8 w-full">
+        <div class="flex md:flex-row flex-col gap-8 w-full">
             <!-- Category -->
-             <div class="flex flex-col gap-5 md:w-72 w-full">
+            <div class="flex flex-col gap-5 md:w-72 w-full">
                 <!-- Search -->
                  <a class="bg-[#E5F6F4] p-4 flex flex-row gap-3 cursor-pointer">
                     <p class="font-[supreme] font-normal text-[#323B50] text-[18px]">	&larr;</p>
@@ -24,8 +24,11 @@
                         <li><a href="#">UX Design</a></li>
                     </ul>
                 </aside>
-             </div>
+            </div>
             <!-- Article -->
+            <div class="flex flex-col gap-4">
+                <h2 class="font-[outfit] font-semibold text-[#323B50] text-[28px] sm:text-[36px]">Why are there so many Web3 startups?</h2>
+            </div>
         </div>
     </div>
 </template>
