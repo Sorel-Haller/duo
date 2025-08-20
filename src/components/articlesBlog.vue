@@ -26,7 +26,7 @@
                 </aside>
             </div>
             <!-- Article -->
-            <article class="flex flex-col gap-4">
+            <article class="flex flex-col gap-4 w-full">
                 <h2 class="font-[outfit] font-semibold text-[#323B50] text-[28px] sm:text-[36px]">Why are there so many Web3 startups?</h2>
                 <!-- Author -->
                  <div class="flex flex-row gap-4">
@@ -43,11 +43,15 @@
                     </div>
                  </div>
                 <!-- Main article -->
-                <div class="flex flex-col gap-4 pb-5">
+                <div class="flex flex-col gap-4 pb-5 md:w-[800px] w-full">
                     <figure>
-                        <img src="https://picsum.photos/1200/600" alt="Blog" style="height: 400px; width:max-content">
-                        <figcaption class="text-right w-full text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
+                        <img src="https://picsum.photos/800/400" alt="Blog">
+                        <figcaption class="text-right text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
                     </figure>
+                    <div class="font-[supreme] font-normal text-[#323B50] text-[18px] w-full space-y-4">
+                        <p>How users engage with the content on your website is crucial to your business. User experience is important because it tries to fulfill the user’s needs. It aims to provide positive experiences that keep a user loyal to your product. Additionally, a meaningful user experience allows you to define customer journeys on your product that are most conducive to business success.</p>
+                        <p>How users engage with the content on your website is crucial to your business. User experience is important because it tries to fulfill the user’s needs. It aims to provide positive experiences that keep a user loyal to your product. Additionally, a meaningful user experience allows you to define customer journeys on your product that are most conducive to business success.</p>
+                    </div>
                 </div>
                 <!-- Main article -->
             </article>
