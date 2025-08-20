@@ -124,6 +124,23 @@
                                 <a href="" class="text-[#323B50] font-[supreme] font-bold text-[16px] pt-3 pb-3">Read More &rarr;</a>
                         </div>
                     </div>
+                    <!-- Blog 3 -->
+                    <div class="flex md:flex-row flex-col gap-6">
+                        <img src="https://picsum.photos/280/210" alt="" class="h-[210px] w-[280px]">
+                        <div class="flex flex-col gap-2 w-full">
+                            <div class="flex flex-row flex-wrap gap-3 justify-between">
+                                <div class="flex flex-row gap-3">
+                                    <p class="text-sm text-[#818EB0]">07, June, 2022</p>
+                                    <p class="text-sm text-[#818EB0]">&#x2022;</p>
+                                    <p class="text-sm text-[#818EB0]">by Al Razi Siam</p>
+                                </div>
+                                <p class="text-sm text-[#818EB0]">5 Min Read</p>
+                            </div>
+                                <h4 class="font-[outfit] font-bold text-[#323B50] text-[24px]">The benefits of using a web framework</h4>
+                                <p class="font-[supreme] font-normal text-[#546286] text-[18px]">This post could discuss the benefits of using a web framework, such as speeding up the development process or providing a consistent...</p>
+                                <a href="" class="text-[#323B50] font-[supreme] font-bold text-[16px] pt-3 pb-3">Read More &rarr;</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
