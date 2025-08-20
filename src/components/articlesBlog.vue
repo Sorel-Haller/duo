@@ -26,17 +26,31 @@
                 </aside>
             </div>
             <!-- Article -->
-            <div class="flex flex-col gap-4">
+            <article class="flex flex-col gap-4">
                 <h2 class="font-[outfit] font-semibold text-[#323B50] text-[28px] sm:text-[36px]">Why are there so many Web3 startups?</h2>
                 <!-- Author -->
                  <div class="flex flex-row gap-4">
-                    <div class="w-12 h-12">
-                        <img src="https://picsum.photos/600/600" alt="Random image" class="rounded-3xl" />
+                    <div class="w-12 h-12 rounded-3xl">
+                        <img src="https://picsum.photos/48/48" alt="Random image" class="rounded-3xl" />
+                    </div>
+                    <div class="flex flex-col gap-1">
+                        <p class="font-[supreme] font-bold text-[#312E47] text-[18px]">Al Razi Siam</p>
+                        <div class="flex flex-row gap-2 text-[#818EB0] text-[16px] items-center">
+                            <p>June 17, 2022</p>
+                            <p>&#x2022;</p>
+                            <p>5 Min Read</p>
+                        </div>
                     </div>
                  </div>
                 <!-- Main article -->
+                <div class="flex flex-col gap-4 pb-5">
+                    <figure>
+                        <img src="https://picsum.photos/1200/600" alt="Blog" style="height: 400px; width:max-content">
+                        <figcaption class="text-right w-full text-[#546286] text-[16px] pt-4">Photo Credit : Unsplash</figcaption>
+                    </figure>
+                </div>
                 <!-- Main article -->
-            </div>
+            </article>
         </div>
     </div>
 </template>
