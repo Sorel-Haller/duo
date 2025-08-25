@@ -180,7 +180,6 @@ const paginatedPosts = computed(() => {
 function goTo(n) {
   if (n < 1 || n > totalPages.value) return
   currentPage.value = n
-  // kerime üles gridini
   window.scrollTo({ top: 0, behavior: 'smooth' })
 }
 
