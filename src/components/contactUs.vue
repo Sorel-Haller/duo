@@ -37,10 +37,10 @@
               class="w-full h-50 border border-[#00A693] bg-[#E5F6F4] text-[#030024] p-5 rounded-sm focus:outline-none focus:ring-1 focus:ring-[#1a7369] resize-none focus:bg-white"></textarea>
           </div>
 
-          <div class="border-b-[0.5px] pt-4 pb-4 bg-[#00A693] hover:bg-[#1a7369] w-full text-center">
+          <div class="border-b-[0.5px] rounded pt-4 pb-4 bg-[#00A693] hover:bg-[#1a7369] w-full text-center">
             <button type="submit"
-              class="font-[Neue Haas Grotesk Display Pro] cursor-pointer font-medium text-6 text-white">
-              Submit
+                class="font-[Neue Haas Grotesk Display Pro] cursor-pointer font-medium text-6 text-white">
+                Submit
             </button>
           </div>
         </form>
