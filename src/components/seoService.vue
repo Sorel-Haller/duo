@@ -1,5 +1,5 @@
 <template>
-    <div class="pt-[40px] pb-[40px] xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:pl-[32px] pl-[20px]">
+    <div class="bg-white pt-[40px] pb-[40px] xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:pl-[32px] pl-[20px]">
         <div class="bg-[#CCEDE9] pt-[40px] pb-[60px] sm:pr-[40px] pr-[20px] sm:pl-[40px] pl-[20px]">
             <div class="flex xl:flex-row flex-col gap-[40px] xl:items-center">
                 <!-- Body -->

@@ -1,4 +1,5 @@
 <template>
+<<<<<<< aboutus
   <!-- HERO -->
   <HomeHero
     bg="/pictures/homepage.jpg"
@@ -220,3 +221,11 @@ const faqs = [
   { q: 'Will you be there for me after the website is complete?', a: '' }
 ]
 </script>
+=======
+    <Home />
+</template>
+
+<script setup>
+    import Home from '../components/Home.vue';
+</script>
+>>>>>>> main

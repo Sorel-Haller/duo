@@ -14,6 +14,16 @@ const routes = [
   { path: "/xooltech", name: "work-xooltech", component: WorkDetailXoolTech },
   { path: '/about', name: 'About', component: AboutUs },
   { path: '/blog', name: 'Blog', component: Blog },
+import privacyPolicy from '../Views/privacyPolicy.vue';
+import contactUs from '../Views/contactUs.vue';
+import Blog from '../Views/Blog.vue';
+
+const routes = [
+  { path: '/', component: Home },
+  { path: '/Service', component: Service },
+  { path: '/PrivacyPolicy', component: privacyPolicy },
+  { path: '/ContactUs', component: contactUs },
+  { path: '/blog', component: Blog },
 
 ]
 const router = createRouter({
